@@ -1,4 +1,4 @@
-## Hi there 👋
+## HeiHei 👋
 
 Jeg er Kevin og er en frontend og mobilutviklings student ved Høyskolen Kristiania, Jeg liker å lære meg nye programmeringsspråk og finne ulike fremgangsmåter til å drive med kreativ webutvikling. Her er en super kort oppsumering om meg:
 
