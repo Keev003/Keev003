@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**Keev003/Keev003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jeg er Kevin og er en frontend og mobilutviklings student ved Høyskolen Kristiania, Jeg liker å lære meg nye programmeringsspråk og finne ulike fremgangsmåter til å drive med kreativ webutvikling. Her er en super kort oppsumering om meg:
 
-Here are some ideas to get you started:
+📚 Bachelorstudent i frontend-utvikling  
+💻 Interesser: web, mobil, UI/UX  
+⚕️ Jobber deltid som sykepleier  
+🏋️‍♂️ Trener aktivt på fritiden  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Kunnskap og erfaringer📚
+- Objektorientert programmering
+- Android og iOS utvikling
+- Databaser (SQL)
+- Webutvikling med react og .NET
+
+## Prosjekter
+- 🌐 Frontend-prosjekter (React, Next.js)  
+- 📱 Mobilapper (React Native) 
+
+- 🌱 Akkurat nå driver jeg å lærer meg React Native og SwiftUI
+- 📫 Kontakt meg:
+      LinkdIn: linkedin.com/in/kevin-evensen-094a21383
+- ⚡ Fun fact: Jeg er tidligere landslagsutøver i Teakwondo 😎
